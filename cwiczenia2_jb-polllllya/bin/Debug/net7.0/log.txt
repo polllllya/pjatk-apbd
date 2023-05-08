@@ -1,0 +1,7 @@
+Błąd: dla studenta {4450 Zbigniew Kowalski35} było podano za mało informacji.
+Błąd: dla studenta {4455 Karolina Nowak36} było podano za mało informacji.
+Błąd: dla studenta {4434 Aleksandra } było podano za mało informacji.
+Błąd: dla studenta {4756 Jolanta Nowak96} było podano za mało informacji.
+Błąd: dla studenta {4496 Łukasz Maciejewski368} było podano za mało informacji.
+Błąd: dla studenta {4830 Krzysztof Nowak321} było podano za mało informacji.
+Błąd: dla studenta {4603 Agnieszka Brzęczyszczykiewicz382} było podano za mało informacji.

@@ -1,0 +1,15 @@
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/bin/Debug/net7.0/Zadanie2
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/bin/Debug/net7.0/Zadanie2.deps.json
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/bin/Debug/net7.0/Zadanie2.runtimeconfig.json
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/bin/Debug/net7.0/Zadanie2.dll
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/bin/Debug/net7.0/Zadanie2.pdb
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.csproj.AssemblyReference.cache
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.AssemblyInfoInputs.cache
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.AssemblyInfo.cs
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.csproj.CoreCompileInputs.cache
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.dll
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/refint/Zadanie2.dll
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.pdb
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/Zadanie2.genruntimeconfig.cache
+/Users/polya.bragina/Desktop/APBD/cwiczenia2_jb-polllllya/obj/Debug/net7.0/ref/Zadanie2.dll
