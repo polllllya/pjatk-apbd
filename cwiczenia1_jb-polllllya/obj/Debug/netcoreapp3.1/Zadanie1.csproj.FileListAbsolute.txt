@@ -1,0 +1,14 @@
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/bin/Debug/netcoreapp3.1/Zadanie1
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/bin/Debug/netcoreapp3.1/Zadanie1.deps.json
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/bin/Debug/netcoreapp3.1/Zadanie1.runtimeconfig.json
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/bin/Debug/netcoreapp3.1/Zadanie1.runtimeconfig.dev.json
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/bin/Debug/netcoreapp3.1/Zadanie1.dll
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/bin/Debug/netcoreapp3.1/Zadanie1.pdb
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.csproj.AssemblyReference.cache
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.AssemblyInfoInputs.cache
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.AssemblyInfo.cs
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.csproj.CoreCompileInputs.cache
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.dll
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.pdb
+/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/obj/Debug/netcoreapp3.1/Zadanie1.genruntimeconfig.cache

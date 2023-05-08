@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zadanie1": {
+      "commandName": "Project",
+      "commandLineArgs": "https://pjwstk.edu.pl"
+    }
+  }
+}

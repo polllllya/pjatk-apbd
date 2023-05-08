@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "X4fnHLTHY/M/bmVUW0KLpKXggVas5XDFKAvHRYJuTHk5vp0kVQ43QZkUEw4JpZDq2aA0oUUGiml/49imAveqJg==",
+  "success": true,
+  "projectFilePath": "/Users/polya.bragina/Desktop/cwiczenia1_jb-polllllya/Zadanie1.csproj",
+  "expectedPackageFiles": [
+    "/Users/polya.bragina/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/polya.bragina/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/polya.bragina/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
